@@ -14,5 +14,7 @@ Redis Cache implementation in Docker
 `docker exec -it local-redis /bin/bash`
 ### Run a ping test on RedisCLI
 `redis-cli`
+
 `ping`
+
 You will get `PONG` as response if everything is working
